@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/Actividad.css';
+import '../styles/Actividad.css';
 
 function Actividad(props) {
   return (

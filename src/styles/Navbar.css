@@ -1,0 +1,11 @@
+.active {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+.disactive {
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}
